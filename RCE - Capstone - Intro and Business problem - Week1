@@ -1,17 +1,23 @@
-INTRODUCTION AND BUSINESS PROBLEM
+1. INTRODUCTION AND BUSINESS PROBLEM
 
-1. INTRODUCTION
-The capstone assignment project aims to study the business opportunities in Paris (France) intra-muros (without the suburbs) can offer to any contractors, especially in the domain of foods and restaurations but also for any other good deals.
-Paris, the capitale of France, is a large metropolis with more than 2.2 million inhabitants with a rich history and a cosmopolitan and multicultural population. Initiating a business in such a context presents enormous risks of failure without further study.
-Paris intra-muros is divided into 20 districts from first to 20th. The district is an administrative division, headed by an elected mayor and created since 1859. 
-Nowadays some districts are like big town in the town. Thus in the 19th districts, the population of approximately 180,000 inhabitants is the equivalent of Le Havre or Reims. 
-But in the 1st district (Louvre) there are only about 17,000 inhabitants and in the 8th (Elysées) approx. that 40,000 inhabitants.
-The districts form a spiral, a snail shell, starting from the center outwards and turning in the direction of the needles of an old clock. 
-The 1st district is in the center, and the 20th district in the east.
+INTRODUCTION
+The capstone assignment project aims to study the business opportunities in Paris (France) intra-muros (without the suburbs) can offer to any contractors, especially in the domain of foods and restaurants but also for any other good deals like like looking for a place to stay with amenities and a good quality of life..
+Paris, the capital city of France, is a large metropolis with more than 2.2 million inhabitants with a rich history and a cosmopolitan and multicultural population. Initiating a business in such a context presents enormous risks of failure without further and deep study.
+Paris intra-muros is divided into 20 districts from the first to the 20th. The district is an administrative division, headed by an elected mayor and created since 1859. 
+Nowadays some districts are like a big town in the town. Thus in the 19th districts, the population of approximately 180,000 inhabitants is the equivalent of a town like Reims. But in the 1st district (Louvre) there are only about 17,000 inhabitants and in the 8th (Elysées) approx. that 40,000 inhabitants. District areas differ from each other from the smallest (99 ha) to the largest (848 ha). 
+The districts form a spiral, a snail shell, starting from the center outwards and turning in the direction of the needles of an old clock. The 1st district is in the center, and the 20th district in the east.
+For each district there are clichés: the 16th arrondissement is reputed as the "rich" district, the 5th is for the universities, the 11th (where is the concert hall "Bataclan" that the terrorists attacked on November 13, 2015 making 90 deaths) has become a trendy district where you meet at the end of the week for a drink. The 13th is Chinatown while the 18th, the 19th and the 20th are popular neighborhoods.
 
-In the 1st district is the Louvre former palace (royal power and his court) became museum, the Forum des Halles.
-in the place des Halles, the church St Eustache, the Palais-Royal and the Palace of Justice in the Ile de la Cité.
+BUSINESS PROBLEM
+In the scope of this capstone, we would like to segment the 20 districts of Paris to group those who presents some similarities and characteristics in terms of venues categories around each district but also considering the number of inhabitants in the analysis. The objective is to have a tool to guide any users for decision making to respond to the following questions : 
+- If I want to open a new restaurant in Paris, depending on the type of my restaurant, in which district would I create it according the existing restaurant in the area ? 
+- If I want to rent a house, in which district can I look first to fullfill my needs in terms of local amenities and quality of life ?
 
+
+
+Le plus petit des arrondissements est le 2e ( la Bourse ) : 99 ha et le plus grand ( non compris les Bois de Boulogne et de Vincennes qui, en effet, appartiennent à la ville de Paris ), le 15e ( Vaugirard ) : 848 ha.
+
+In the 1st district is the Louvre former palace (royal power and his court) became museum.
 2nd district : Bourgeois neighborhood, beautiful architecture
 3rd district : Museums, old and historic streets, pretty markets
 The Paris City Hall, Le Marais is located in the 4th arrondissement.
@@ -32,22 +38,5 @@ of course the Elysee Palace seat of the Presidency of the Republic.
 18th arrondissement : The basilica of the Sacred Heart of Montmartre overlooking Paris
 19th district : Parks, museums, popular
 20th ditstrict : popular and festive of old and continue to mix cultures
-
-For each district there are clichés: the 16th arrondissement is the "rich", the 5th is the universities, the 11th (where is the concert 
-hall "Bataclan" that the terrorists attacked on November 13, 2015 making 90 deaths) has become a trendy district where you meet at the end 
-of the week for a drink. The 13th is Chinatown. While the 18th, the 19th and the 20th are popular neighborhoods.
-
-But Paris did not always have the shape of a snail. There were 9 districts on the right bank of the Seine and 3 on the left bank. 
-The 1st district was towards the Champs-Elysées including the Tuileries, the Place Vendôme. 
-The Palais-Royal was in the 2nd. 
-The Louvre in the 4th. 
-The Sorbonne, Luxembourg in the 11th arrondissement.
-
-
-Le plus petit des arrondissements est le 2e ( la Bourse ) : 99 ha et le plus grand ( non compris les Bois de Boulogne et de Vincennes qui, en effet, appartiennent à la ville de Paris ), le 15e ( Vaugirard ) : 848 ha.
-
-
-DATASETS DESCRIPTION
-
 
 http://www.bernardkproject.com/2017/05/une-tres-breve-histoire-des-arrondissements-de-paris.html
